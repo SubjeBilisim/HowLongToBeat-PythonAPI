@@ -3,7 +3,7 @@
 ![CodeQL](https://github.com/ScrappyCocco/HowLongToBeat-PythonAPI/workflows/CodeQL/badge.svg)
 
 [![Build Status](https://travis-ci.org/ScrappyCocco/HowLongToBeat-PythonAPI.svg?branch=master)](https://travis-ci.org/ScrappyCocco/HowLongToBeat-PythonAPI)
-[![codecov](https://codecov.io/gh/ScrappyCocco/HowLongToBeat-PythonAPI/branch/master/graph/badge.svg)](https://codecov.io/gh/ScrappyCocco/HowLongToBeat-PythonAPI)
+[![codecov](https://codecov.io/gh/SubjeBilisim/HowLongToBeat-PythonAPI/branch/master/graph/badge.svg)](https://codecov.io/gh/SubjeBilisim/HowLongToBeat-PythonAPI)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ScrappyCocco_HowLongToBeat-PythonAPI&metric=bugs)](https://sonarcloud.io/dashboard?id=ScrappyCocco_HowLongToBeat-PythonAPI)
 
 A simple Python API to read data from howlongtobeat.com.
